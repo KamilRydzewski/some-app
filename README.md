@@ -1,5 +1,3 @@
-# the-good-code
-
 # frontend
 
 ## Install the dependencies
