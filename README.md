@@ -1,6 +1,8 @@
-# frontend
+# List App - The Good Code
 
-## Install the dependencies
+## frontend
+
+### Install the dependencies
 
 ```bash
 yarn
@@ -40,7 +42,7 @@ quasar build
 
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
 
-# backend
+## backend
 
 ### Install the depedencies
 
