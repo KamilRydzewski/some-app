@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unsafe-assignment */
 import axios, { AxiosRequestConfig, AxiosResponse } from 'axios';
 
 //should be in ENV 
